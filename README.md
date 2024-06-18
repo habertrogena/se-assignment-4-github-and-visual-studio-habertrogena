@@ -11,6 +11,8 @@ Introduction to GitHub:
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
 Repositories on GitHub:
 
+- 
+
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 Version Control with Git:
 
@@ -43,3 +45,6 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+
+below is the link to the answers of the above questions 
+https://docs.google.com/document/d/15WsIwGyzCJekVM2SDuvptJGd4Oq_jSveyNhtPmcCGwg/edit?usp=sharing
